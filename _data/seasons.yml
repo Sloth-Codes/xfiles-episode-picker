@@ -1,14 +1,81 @@
 - season-num: 1
   episodes: 
-    - title: Pilot
-      description: test 1
+  - title: Pilot
+    description: Agent Dana Scully is instructed to debunk an FBI project dubbed "The X-Files," paranormal cases that have been reopened by Agent Fox Mulder. 
 
-    - title: Deepthroat
-      description: test 2
+  - title: Deepthroat
+    description: Mulder and Scully investigate the mysterious case of a military test pilot who disappeared after experiencing strange psychotic behaviour. 
+
+  - title: Squeeze
+    description: Mulder and Scully search for a humanoid killer whose savage murder spree reoccurs every 30 years.
+
+  - title: Conduit
+    description: Mulder becomes obsessed with solving a case that closely parallels an "encounter" he experienced as a child.
+
+  - title: The Jersey Devil
+    description: Mulder and Scully track a legendary creature that has roamed the New Jersey countryside for over 40 years
+
+  - title: Shadow
+    description: Mulder and Scully investigate the deaths of two men believed to have been killed by a powerful psychokinetic force. 
+
+  - title: Ghost in the Machine
+    description: On Halloween, Mulder and Scully investigate the death of a corporate executive who may have been murdered by a thinking computer.
+
+  - title: Ice
+    description: Mulder and Scully are sent to investigate when a team of geophysicists stationed at a remote Alaskan outpost are killed by a parasitic alien life form. 
+
+  - title: Space
+    description: When a space shuttle mission is sabotaged, Mulder suspects it may be the work of an alien spirit that inhabits the body of a former Gemini astronaut. 
+
+  - title: Fallen Angel
+    description: The future of the X-Files project is jeopardized after Mulder secretly infiltrates the government cover-up of a UFO crash. 
+
+  - title: Eve
+    description: Mulder and Scully search for two missing girls who disappeared after their fathers were murdered in an identical fashion. 
+
+  - title: Fire
+    description: Mulder and Scully join forces with an inspector from Scotland Yard when a man with pyrokinetic powers stalks members of the British aristocracy. 
+
+  - title: Beyond the Sea
+    description: Scully believes that the psychic predictions of a death row inmate are the only hope in the kidnapping of two college students. 
+
+  - title: Gender Bender
+    description: A religious sect becomes the prime suspect in a murder spree. 
+
+  - title: Lazarus
+    description: The consciousness of a dangerous criminal possesses an FBI agent who is also Scully's ex-boyfriend. 
+
+  - title: Young at Heart
+    description: A criminal believed to have died in a prison years earlier wages a vendetta against Mulder. 
+
+  - title: E.B.E.
+    description: Mulder and Scully become the focus of a disinformation campaign when they attempt to trace the government's secret transport of an alien life form. 
+
+  - title: Miracle Man
+    description: The agents investigate a ministry led by a man whose son possesses the power to heal, and to kill, with a touch of his hand. 
+
+  - title: Shapes
+    description: A creature, possibly from Native American lore, is suspected of killing a man, bringing Mulder and Scully to the Indian reservation where the attack occurred in order to uncover its identity. 
+
+  - title: Darkness Falls
+    description: A group of loggers working in a remote forest unearths thousands of deadly insectlike creatures that paralyze and cocoon their victims. Scully, Mulder and a few others end up trapped there. 
+
+  - title: Eugene
+    description: Eugene Tooms, a supernatural killer whom Mulder helped incarcerate, is released on parole. 
+  
+  - title: Born Again
+    description: An 8-year-old girl is the prime suspect in a series of bizarre, seemingly unrelated deaths. 
+
+  - title: Roland
+    description: When scientists at an aeronautics lab die under mysterious circumstances, the agents suspect a mentally challenged janitor may be the culprit. 
+
+  - title: The Erlenmeyer Flask
+    description: Deep Throat tips Mulder to a critically important case involving a missing fugitive and the cloning of extraterrestrial viruses. 
+
 - season-num: 2
   episodes: 
-    - title: TEst 2
-      description: test 3
+  - title: TEst 2
+    description: test 3
 
-    - title: Dtest
-      description: tes 4
+  - title: Dtest
+    description: tes 4
