@@ -1,11 +1,23 @@
-# X-files episode generator
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-This is a test.
+layout: home
+title: X-files episode picker
+permalink: /
+---
 
-<ul>
-{% for episode in site.data.episodes %}
-    <li>
-        {{episode.title}}
-    </li>
+<p>This is a test.</p>
+
+<div class="entry">
+{% for season in site.data.seasons %}
+    <h2>{{season.season-num}}</h2>
+    <dl>
+    {% for episode in season.episodes %}
+        <dt>{{episode.title}}</dt>
+        <dd>{{episode.description}}</dd>
+    {% endfor %}
+    </dl>
+
 {% endfor %}
-</ul>
+</div>
