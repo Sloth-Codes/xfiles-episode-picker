@@ -5,19 +5,21 @@
 layout: home
 title: X-files episode picker
 permalink: /
+season: 0
 ---
 
 <p>This is a test.</p>
 
 <div class="entry">
-{% for season in site.data.seasons %}
-    <h2>{{season.season-num}}</h2>
-    <dl>
-    {% for episode in season.episodes %}
-        <dt>{{episode.title}}</dt>
-        <dd>{{episode.description}}</dd>
+    
+    {% for episode in site.data.episodes %}
+        {% if episode.Season != season %}
+            <h2>{{episode.Season}}</h2>
+            {% assign season = episode.Season %}
+        {% endif %}
+        
+        <p>{{episode.EpisodeTitle}}</p>
+        <p>{{episode.AirOrderInSeason}}</p>
     {% endfor %}
-    </dl>
-
-{% endfor %}
+    
 </div>
